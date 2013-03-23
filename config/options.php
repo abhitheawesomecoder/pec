@@ -9,7 +9,7 @@
  * @package  Paypal-express-checkout
  * @version  1.1.1
  * @author   Abhishek Kumar <abhitheawesomecoder@gmail.com>
- * @link     https://github.com/abhi/pec
+ * @link     https://github.com/abhitheawesomecoder/pec
  */
  
 return array(

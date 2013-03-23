@@ -10,7 +10,7 @@
 
 **Git Clone**
 
-	git clone http://github.com/abhi/pec
+	git clone http://github.com/abhitheawesomecoder/pec
 
 **Modify application/bundles.php**
 ```php
